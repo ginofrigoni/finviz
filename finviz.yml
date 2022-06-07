@@ -1,7 +1,3 @@
-tabla:
-    css: .snapshot-table2
-    xpath: null
-    type: HTML
 data:
     css: 'div.fv-container > table.snapshot-table2 td'
     xpath: null
